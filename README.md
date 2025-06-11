@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hcustod&show_icons=true&theme=dracula)
 
 ## 📂 Featured Projects
 - 🔗 [Voting App](https://github.com/YOUR_USERNAME/voting-app)
