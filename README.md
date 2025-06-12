@@ -8,7 +8,7 @@
   <tr>
     <td><strong>📫 Reach me:</strong> <a href="https://hcustodio.com">hcustodio.com</a></td>
     <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square" alt="Profile Views"/>
+      <img src="https://komarev.com/ghpvc/?username=hcustod&color=blue&style=flat-square" alt="Profile Views"/>
     </td>
   </tr>
 </table>
@@ -52,21 +52,21 @@
 
 ## 📂 Featured Projects
 
-- 🔗 [**Voting App**](https://github.com/YOUR_USERNAME/voting-app)  
+- 🔗 [**Voting App**](https://github.com/hcustod/voting-app)  
   A PHP-based voting system with user sessions, cookie-based theming, and CRUD-style voting.
 
-- 🔗 [**MixCraft**](https://github.com/YOUR_USERNAME/mixcraft)  
+- 🔗 [**MixCraft**](https://github.com/hcustod/mixcraft)  
   Interactive recipe manager for cocktail lovers. Filter by spirits, add notes, and save favorites. Built with JavaScript.
 
-- 🔗 [**Smart Inventory System**](https://github.com/YOUR_USERNAME/inventory-management)  
+- 🔗 [**Smart Inventory System**](https://github.com/hcustod/inventory-management)  
   ASP.NET Core MVC app featuring role-based access, AJAX-enhanced UX, product tracking, and Azure deployment.
 
 <details>
   <summary>🛠 More Projects</summary>
 
-- 🎮 [**Gomoku Game**](https://github.com/YOUR_USERNAME/gomoku-game) — Java game with Minimax-based AI  
-- 🧙‍♂️ [**ASCII Roguelike**](https://github.com/YOUR_USERNAME/ascii-rogue) — Terminal-based adventure game in Python  
-- ✈️ [**Flight Reservation System**](https://github.com/YOUR_USERNAME/FlightReservationSystem) — C# console app managing flight bookings with file I/O
+- 🎮 [**Gomoku Game**](https://github.com/hcustod/gomoku-game) — Java game with Minimax-based AI  
+- 🧙‍♂️ [**ASCII Roguelike**](https://github.com/hcustod/ascii-rogue) — Terminal-based adventure game in Python  
+- ✈️ [**Flight Reservation System**](https://github.com/hcustod/FlightReservationSystem) — C# console app managing flight bookings with file I/O
 
 </details>
 
