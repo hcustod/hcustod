@@ -14,48 +14,42 @@
 
 ---
 
-<div align="center" style="max-width: 1000px; margin: 0 auto;">
+### 🚀 Tech Stack & 📚 Currently Learning
 
-<table width="100%" style="table-layout:fixed;">
+<table width="100%">
   <tr>
-    <td valign="top" style="width: 50%; padding: 10px; vertical-align: top;">
+    <td align="center" valign="top" width="50%">
 
-      <h3>🚀 Tech Stack</h3>
-      
-      <p style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" title="JavaScript" />
-        <img src="https://cdn.simpleicons.org/python/3776AB" height="30" title="Python" />
-        <img src="https://cdn.simpleicons.org/php/777BB4" height="30" title="PHP" />
-        <img src="https://cdn.simpleicons.org/openjdk/007396" height="30" title="Java (OpenJDK)" />
-        <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" title="C#" />
-        <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" title="Docker" />
-        <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" title="PostgreSQL" />
-        <img src="https://cdn.simpleicons.org/linux/000000" height="30" title="Linux" />
-        <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" title="Google Cloud" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" title="AWS" />
-        <img src="https://cdn.simpleicons.org/git/F05032" height="30" title="Git" />
-        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" title="VS Code" />
-      </p>
+<b>Tech Stack</b><br><br>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" title="JavaScript" />
+<img src="https://cdn.simpleicons.org/python/3776AB" height="30" title="Python" />
+<img src="https://cdn.simpleicons.org/php/777BB4" height="30" title="PHP" />
+<img src="https://cdn.simpleicons.org/openjdk/007396" height="30" title="Java (OpenJDK)" />
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" title="C#" />
+<br><br>
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="30" title="Docker" />
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" title="PostgreSQL" />
+<img src="https://cdn.simpleicons.org/linux/000000" height="30" title="Linux" />
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" title="Google Cloud" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" title="AWS" />
+<img src="https://cdn.simpleicons.org/git/F05032" height="30" title="Git" />
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" title="VS Code" />
 
-    </td>
+</td>
+<td align="center" valign="top" width="50%">
 
-    <td valign="top" style="width: 50%; padding: 10px; vertical-align: top;">
+<b>Currently Learning</b><br><br>
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" title="Laravel" />
+<img src="https://cdn.simpleicons.org/openjdk/007396" height="30" title="JavaFX (OpenJDK)" />
+<img src="https://cdn.simpleicons.org/terraform/623CE4" height="30" title="Terraform" />
+<img src="https://cdn.simpleicons.org/c/00599C" height="30" title="C" />
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" title="C++" />
+<br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" height="30" title="Unreal Engine" />
 
-      <h3>📚 Currently Learning</h3>
-      <p style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" title="Laravel" />
-        <img src="https://cdn.simpleicons.org/openjdk/007396" height="30" title="JavaFX (OpenJDK)" />
-        <img src="https://cdn.simpleicons.org/terraform/623CE4" height="30" title="Terraform" />
-        <img src="https://cdn.simpleicons.org/c/00599C" height="30" title="C" />
-        <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" title="C++" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Unreal_Engine_Logo.svg/512px-Unreal_Engine_Logo.svg.png" height="30" title="Unreal Engine" />
-      </p>
-
-    </td>
+</td>
   </tr>
 </table>
-
-</div>
 
 
 ---
