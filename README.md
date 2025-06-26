@@ -18,7 +18,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
 
 <b>Tech Stack</b><br><br>
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" title="JavaScript" />
@@ -36,7 +36,7 @@
 <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" title="VS Code" />
 
 </td>
-<td align="center" valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 <b>Currently Learning</b><br><br>
 <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" title="Laravel" />
@@ -50,7 +50,6 @@
 </td>
   </tr>
 </table>
-
 
 ---
 
