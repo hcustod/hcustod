@@ -2,19 +2,17 @@
 
 ---
 
-💻 Former Sysadmin, and Current Full-Stack Developer & Cloud Engineering Enthusiast.   
-🔧 Focused on automation, backend systems, and building efficient, scalable applications on the cloud. 
+Former Sysadmin, and Current Full-Stack Developer & Cloud Engineering Enthusiast.   
+Focused on automation, backend systems, and building efficient, scalable applications on the cloud. 
 
 <table width="100%">
   <tr>
-    <td><strong>📫 Portfolio:</strong> <a href="https://hcustodio.com">hcustodio.com</a></td>
+    <td><strong>Portfolio:</strong> <a href="https://hcustodio.com">hcustodio.com</a></td>
     <td align="right"><img src="https://komarev.com/ghpvc/?username=hcustod&color=blue&style=flat-square" alt="Profile Views"/></td>
   </tr>
 </table>
 
 ---
-
-### 🚀 Tech Stack & 📚 Currently Learning
 
 <table width="100%">
   <tr>
@@ -33,7 +31,6 @@
 <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" title="Google Cloud" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" title="AWS" />
 <img src="https://cdn.simpleicons.org/git/F05032" height="30" title="Git" />
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" title="VS Code" />
 
 </td>
 <td valign="top" width="50%" align="center">
