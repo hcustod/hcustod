@@ -1,8 +1,7 @@
 # 👋 Henrique Custodio
 
-🎓 Computer Programming & Analysis student – George Brown College  
-💻 Former Sysadmin → Full-Stack Developer & Cloud Engineering Enthusiast  
-🔧 Focused on automation, backend systems, and building efficient, scalable apps
+💻 Former Sysadmin, and Current Full-Stack Developer & Cloud Engineering Enthusiast.   
+🔧 Focused on automation, backend systems, and building efficient, scalable applications on the cloud. 
 
 <table width="100%">
   <tr>
@@ -13,32 +12,46 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### 🚀 Tech Stack
 
-**Languages:**  
-<img title="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-<img title="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-<img title="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" />
-<img title="Java" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
-<img title="C#" src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" title="JavaScript" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" title="Python" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" title="PHP" />
+  <img src="https://cdn.simpleicons.org/java/007396" height="30" title="Java" />
+  <img src="https://cdn.simpleicons.org/csharp/239120" height="30" title="C#" />
+  <br><br>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" title="Docker" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/linux/000000" height="30" title="Linux" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" title="Google Cloud" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="30" title="AWS" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" title="Git" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" title="VS Code" />
+</p>
 
-**Tools & Platforms:**  
-<img title="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
-<img title="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" />
-<img title="Linux" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" />
-<img title="GCP" src="https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud" />
-<img title="AWS" src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" />
-<img title="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-<img title="VS Code" src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code" />
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 📚 Currently Learning
 
-<img title="Laravel" src="https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel" />
-<img title="Unity" src="https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity" />
-<img title="JavaFX" src="https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java" />
-<img title="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" title="Laravel" />
+  <img src="https://cdn.simpleicons.org/unity/000000" height="30" title="Unity" />
+  <img src="https://cdn.simpleicons.org/java/007396" height="30" title="JavaFX" />
+  <img src="https://cdn.simpleicons.org/terraform/623CE4" height="30" title="Terraform" />
+  <img src="https://cdn.simpleicons.org/c/00599C" height="30" title="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" title="C++" />
+  <img src="https://cdn.simpleicons.org/unrealengine/0E1128" height="30" title="Unreal Engine" />
+</p>
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -64,21 +77,8 @@
 
 ---
 
-### ⚡ Background
-
-Former semi-pro football player turned developer — I now tackle code instead of quarterbacks.  
 Currently building:  
 ![Now Building](https://img.shields.io/badge/Now_Building-MixCraft-orange?style=flat-square&logo=codewars)
-
----
-
-### 📈 GitHub Stats
-
-<details>
-  <summary>View My Stats</summary>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=hcustod&show_icons=true&hide_title=true&theme=radical&count_private=true" />
-</details>
 
 ---
 
