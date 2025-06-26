@@ -1,5 +1,7 @@
 # 👋 Henrique Custodio
 
+---
+
 💻 Former Sysadmin, and Current Full-Stack Developer & Cloud Engineering Enthusiast.   
 🔧 Focused on automation, backend systems, and building efficient, scalable applications on the cloud. 
 
@@ -22,8 +24,8 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" title="JavaScript" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" title="Python" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" title="PHP" />
-  <img src="https://cdn.simpleicons.org/java/007396" height="30" title="Java" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="30" title="C#" />
+  <img src="https://cdn.simpleicons.org/openjdk/007396" height="30" title="Java (OpenJDK)" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" title="C#" />
   <br><br>
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" title="Docker" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" title="PostgreSQL" />
@@ -34,6 +36,7 @@
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" title="VS Code" />
 </p>
 
+
 </td>
 <td width="50%" valign="top">
 
@@ -42,11 +45,11 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" title="Laravel" />
   <img src="https://cdn.simpleicons.org/unity/000000" height="30" title="Unity" />
-  <img src="https://cdn.simpleicons.org/java/007396" height="30" title="JavaFX" />
+  <img src="https://cdn.simpleicons.org/openjdk/007396" height="30" title="JavaFX (OpenJDK)" />
   <img src="https://cdn.simpleicons.org/terraform/623CE4" height="30" title="Terraform" />
   <img src="https://cdn.simpleicons.org/c/00599C" height="30" title="C" />
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" title="C++" />
-  <img src="https://cdn.simpleicons.org/unrealengine/0E1128" height="30" title="Unreal Engine" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Unreal_Engine_Logo.svg" height="30" title="Unreal Engine" />
 </p>
 
 </td>
@@ -77,9 +80,8 @@
 
 ---
 
-Currently building:  
 ![Now Building](https://img.shields.io/badge/Now_Building-MixCraft-orange?style=flat-square&logo=codewars)
 
----
-
 > 🔗 Explore more at [hcustodio.com](https://hcustodio.com) or check out my pinned repos.
+
+---
