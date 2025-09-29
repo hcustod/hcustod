@@ -1,79 +1,27 @@
-# 👋 Henrique Custodio
+# Henrique Custodio
 
----
+Full-stack developer with a sysadmin backbone. I design reliable backends, configure CI/CD, and ship cloud-ready apps on AWS/GCP.  
+[hcustodio.com](https://hcustodio.com)
 
-Former Sysadmin, and Current Full-Stack Developer & Cloud Engineering Enthusiast.   
-Focused on automation, backend systems, and building efficient, scalable applications on the cloud. 
+## What I Do
+API/back-end work, CI/CD, infra as code, and system/database administration. 
 
-<table width="100%">
-  <tr>
-    <td><strong>Portfolio:</strong> <a href="https://hcustodio.com">hcustodio.com</a></td>
-    <td align="right"><img src="https://komarev.com/ghpvc/?username=hcustod&color=blue&style=flat-square" alt="Profile Views"/></td>
-  </tr>
-</table>
+## Tech (quick glance)
+<img src="https://cdn.simpleicons.org/javascript" height="35" alt="JavaScript" />
+<img src="https://cdn.simpleicons.org/python" height="35" alt="Python" />
+<img src="https://cdn.simpleicons.org/php" height="35" alt="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" alt="Java" />
+<img src="https://cdn.simpleicons.org/dotnet" height="35" alt="C#" />
+<img src="https://cdn.simpleicons.org/docker" height="35" alt="Docker" />
+<img src="https://cdn.simpleicons.org/postgresql" height="35" alt="PostgreSQL" />
+<img src="https://cdn.simpleicons.org/linux" height="35" alt="Linux" />
+<img src="https://cdn.simpleicons.org/googlecloud" height="35" alt="GCP" />
+<img src="https://cdn.simpleicons.org/git" height="35" alt="Git" />
 
----
+## Currently working with
+Spring · Java · Terraform · Docker · TravisCI 
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%" align="center">
-
-<b>Tech Stack</b><br><br>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" title="JavaScript" />
-<img src="https://cdn.simpleicons.org/python/3776AB" height="30" title="Python" />
-<img src="https://cdn.simpleicons.org/php/777BB4" height="30" title="PHP" />
-<img src="https://cdn.simpleicons.org/openjdk/007396" height="30" title="Java (OpenJDK)" />
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" title="C#" />
-<br><br>
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="30" title="Docker" />
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" title="PostgreSQL" />
-<img src="https://cdn.simpleicons.org/linux/000000" height="30" title="Linux" />
-<img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="30" title="Google Cloud" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="30" title="AWS" />
-<img src="https://cdn.simpleicons.org/git/F05032" height="30" title="Git" />
-
-</td>
-<td valign="top" width="50%" align="center">
-
-<b>Currently Learning</b><br><br>
-<img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" title="Laravel" />
-<img src="https://cdn.simpleicons.org/openjdk/007396" height="30" title="JavaFX (OpenJDK)" />
-<img src="https://cdn.simpleicons.org/terraform/623CE4" height="30" title="Terraform" />
-<img src="https://cdn.simpleicons.org/c/00599C" height="30" title="C" />
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="30" title="C++" />
-<br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" height="30" title="Unreal Engine" />
-
-</td>
-  </tr>
-</table>
-
----
-
-### 📂 Featured Projects
-
-- [**Voting App**](https://github.com/hcustod/voting-app)  
-  PHP-based app with session login, theme cookies, and CRUD voting system.
-
-- [**MixCraft**](https://github.com/hcustod/mixcraft)  
-  JavaScript drink recipe manager with filtering, favoriting, and note-taking.
-
-- [**Smart Inventory System**](https://github.com/hcustod/inventory-management)  
-  ASP.NET Core MVC app with role-based access, AJAX UX, and Azure deployment.
-
-<details>
-  <summary>More Projects</summary>
-
-- 🎮 [**Gomoku Game**](https://github.com/hcustod/gomoku-game) — Java, Minimax AI  
-- 🧙 [**ASCII Roguelike**](https://github.com/hcustod/ascii-rogue) — Terminal adventure in Python  
-- ✈️ [**Flight Reservation System**](https://github.com/hcustod/FlightReservationSystem) — C# console app with file I/O
-
-</details>
-
----
-
-![Now Building](https://img.shields.io/badge/Now_Building-MixCraft-orange?style=flat-square&logo=codewars)
-
-> 🔗 Explore more at [hcustodio.com](https://hcustodio.com) or check out my pinned repos.
-
----
+## Selected Projects
+- **[Voting App](https://github.com/hcustod/voting-app)** — PHP app with sessions, theme cookies, and CRUD voting.
+- **[MixCraft](https://github.com/hcustod/mixcraft)** — JS drink recipe manager with filters, favorites, and notes.
+- **[Smart Inventory](https://github.com/hcustod/inventory-management)** — ASP.NET MVC with roles, AJAX UX, and Azure deploy.
